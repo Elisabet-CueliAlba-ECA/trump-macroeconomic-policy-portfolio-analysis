@@ -1,5 +1,7 @@
 # Quantitative Active Portfolio Management: Navigating the 2025 "Liberation Day" Tariff Shock
 
+🗃️ **[Click here to view Executive Presentation (PDF)](https://github.com/Elisabet-CueliAlba-ECA/trump-macroeconomic-policy-portfolio-analysis/blob/main/Project%20-%20Active%20Portfolio%20Management%20-%20Facing%20Donald%20Trump's%20tariff%20policies.pdf)**
+
 ## Executive Summary & Macroeconomic Context
 The implementation of the sweeping reciprocal tariff policies by the Donald Trump administration in April 2025 (often referred to as the "Liberation Day tariffs") introduced an unprecedented macroeconomic shock to the global economy. In such highly disruptive environments characterized by supply chain relocation, geopolitical fragmentation, and inflation resurgence, **passive indexing fails to protect capital efficiently**. 
 
